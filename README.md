@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malka01&label=Profile%20views&color=0e75b6&style=flat" alt="malka01" /> </p>
 
-- 🔭 I’m currently working on **Webdevelopment**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently Studying on Uva Wellassa University **Uva Wellassa University**
 
